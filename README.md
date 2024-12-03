@@ -1,4 +1,4 @@
-# HALF_ADDER_SUBTRACTOR
+![WhatsApp Image 2024-12-03 at 08 19 55_ced295f6](https://github.com/user-attachments/assets/564cbfd6-4abb-4015-b0ce-a29bd2255722)# HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
@@ -83,12 +83,18 @@ endmodule
 ```
 
 **RTL Schematic**
-
-![WhatsApp Image 2024-12-03 at 08 19 54_07153ccd](https://github.com/user-attachments/assets/cb193b3d-9b16-43e9-bf49-8d019a3fda2a)
+## Half adder
+![Screenshot 2024-12-03 084151](https://github.com/user-attachments/assets/6ea8ed05-208b-46e6-b296-f6fb26b88c50)
+## Half subtractors
+![Screenshot 2024-12-03 084200](https://github.com/user-attachments/assets/dcdaec98-f949-40ce-a1b9-00106581fb54)
 
 **Output/TIMING Waveform**
-![WhatsApp Image 2024-12-03 at 08 19 54_135b7aca](https://github.com/user-attachments/assets/71983167-b30b-4d96-9f28-2bf876286a9f)
-![WhatsApp Image 2024-12-03 at 08 19 55_ced295f6](https://github.com/user-attachments/assets/bda937f1-9f36-47bf-b919-322d2e2a5327)
+## Half adder
+![WhatsApp Image 2024-12-03 at 08 19 54_135b7aca](https://github.com/user-attachments/assets/6c9dc699-b0e7-4288-819d-ed3f11e3e3cb)
+
+## Half subtractors
+![WhatsApp Image 2024-12-03 at 08 19 55_ced295f6](https://github.com/user-attachments/assets/649db044-1c7a-4157-b777-2dbb21927c79)
+
 **Result:
 Thus the half subracter and half adder circuits are design and the truth tables are verified using quartus software
 **
